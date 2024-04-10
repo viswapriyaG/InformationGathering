@@ -57,8 +57,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## TCP Traceroute :
-![traceroute](https://github.com/viswapriyaG/InformationGathering/assets/131427787/35a0e390-0e2b-47a7-8341-a420c7e8092d)
 
+![tcp](https://github.com/viswapriyaG/InformationGathering/assets/131427787/c5d28cac-8ecb-46e3-9173-b8a99effeb67)
 
 ## UDP Traceroute :
 
